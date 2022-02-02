@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btn_dars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drasdai Animation"/>
+
+    <Button
+        android:id="@+id/btn_vaz1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 1"/>
+    <Button
+        android:id="@+id/btn_vaz2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 2"/>
+    <Button
+        android:id="@+id/btn_vaz3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 3"/>
+    <Button
+        android:id="@+id/btn_vaz4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 4"/>
+    <Button
+        android:id="@+id/btn_vaz5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 5"/>
+    <Button
+        android:id="@+id/btn_vaz6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vazifa 6"/>
+
+</LinearLayout>

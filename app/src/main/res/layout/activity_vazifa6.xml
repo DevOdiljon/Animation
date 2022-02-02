@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vazifa6Activity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:lottie_fileName="twitter-logo-fly-animation.json"
+        app:lottie_loop="true"
+        android:scaleType="centerCrop"
+        app:lottie_autoPlay="true"/>
+
+   <com.airbnb.lottie.LottieAnimationView
+       android:layout_width="200dp"
+       android:layout_height="200dp"
+       app:lottie_fileName="twitter-logo.json"
+       app:lottie_loop="true"
+       android:scaleType="centerCrop"
+       app:lottie_autoPlay="true"/>
+
+</LinearLayout>

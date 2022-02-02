@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_dars.xml" value="0.2617753623188406" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_main.xml" value="0.2617753623188406" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa1.xml" value="0.2617753623188406" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa2.xml" value="0.2617753623188406" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa3.xml" value="0.2509057971014493" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa4.xml" value="0.264" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa5.xml" value="0.23867753623188406" />
+        <entry key="..\:/B - 13 VAZIFALAR/4 - modul/9 - dars kotlin/app/src/main/res/layout/activity_vazifa6.xml" value="0.23867753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
